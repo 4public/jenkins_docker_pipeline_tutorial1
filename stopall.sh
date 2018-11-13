@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker stop mysonar myjenkins
+sudo docker stop mysonar myjenkins
